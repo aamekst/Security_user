@@ -1,0 +1,8 @@
+services:
+  alana_postgresql1:
+      image: postgres
+      environment:
+        POSTGRES_USER: alana
+        POSTGRES_PASSWORD: 123456
+      ports:
+        - 5432:5432
