@@ -29,8 +29,10 @@
 2. ```TB USUARIOS```
    <br>
    <img src="tb_usuarios.jpg"><br>
-    <br><br>
-3. ```TB PRODUTOS e TB SETOR```
+    <br>
+   ### TB ATUALIZADA
+   <img src="tb_usuarios2.jpg"><br><br>
+4. ```TB PRODUTOS e TB SETOR```
    <br>
    <img src="tb_produto_tb_setor.jpg"><br>
 
@@ -41,23 +43,26 @@
   <br><br>
 2. ```Metodo registrar```
    <br>
+   ## User: Alana
    <img src="register.jpg"><br><br><br>
-3. ```Listar usuarios```
+   ## User: Teste
+   <img src="registrarT.jpg"><br><br><br>
+4. ```Listar usuarios```
   <img src="lista.jpg"><br>
   <br><br>
- 4. ```Procurar por nome```
+ 5. ```Procurar por nome```
   <img src="find_name.jpg"><br>
   <br><br>
- 5. ```Autorização negada```
+ 6. ```Autorização negada```
     <img src="testeAutorizacao.jpg"><br>
   <br><br>
- 6. ```Auth```
+ 7. ```Auth```
 <br>
   <img src="Auth.jpg"><br>
   <br><br>
- 7. Criar setor
+ 8. Criar setor
 <img src="Auth_criasetor.jpg"><br>
   <br><br>
- 8. Criar produto
+ 9. Criar produto
  <img src="Auth_criaProduto.jpg"><br>
   <br><br>
