@@ -57,12 +57,23 @@
     <img src="testeAutorizacao.jpg"><br>
   <br><br>
  7. ```Auth```
-<br>
+           <br>
+## User: Alana
   <img src="Auth.jpg"><br>
   <br><br>
- 8. Criar setor
-<img src="Auth_criasetor.jpg"><br>
+ ## User: teste
+  <img src="authT.jpg"><br>
   <br><br>
- 9. Criar produto
+  <img src="authComsenhaIncorreta.jpg"><br>
+  <br><br>
+  <img src="authComsenha.jpg"><br>
+  <br><br>
+ 8. ```Login```
+  <img src="loginT.jpg"><br>
+  <br><br>
+ 9. ```Post setor```
+    <img src="Auth_criasetor.jpg"><br>
+  <br><br>
+ 10. ```Post produto```
  <img src="Auth_criaProduto.jpg"><br>
   <br><br>
